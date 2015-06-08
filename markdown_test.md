@@ -1,9 +1,13 @@
-#This us a Markdown file made for pratice.
+#This is a Markdown file made for pratice.
 
 
 
-# This is a Heading
-## Secong heading deep
-### Third heading
+# This is a Heading made with (#)
+## Secong heading deep (##)
+### Third heading deep (###)
 
-hello
+Lists
+
+* First Item
+* Second Item
+* Third Item
